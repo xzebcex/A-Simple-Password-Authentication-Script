@@ -1,0 +1,3 @@
+# Descriptiion.
+This code is a simple password authentication script. It prompts the user to enter a password and then checks if it matches a predefined password. If the passwords match, the user is granted access and the message "Access Granted" is displayed. If the passwords do not match, the user is denied access and the message "Access Denied" is displayed. The script then exits.
+It's a simple implementation of password validation, it will not be suitable for any production environment as it doesn't have any encryption or hashing mechanism for the password and also it doesn't have any mechanism to handle multiple attempts.
