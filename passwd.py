@@ -1,7 +1,6 @@
 # A Simple Password Authentication Script
 
-print('Enter password')
-typed_password = input()
+typed_password = input('Enter password')
 if typed_password == 'password':
     print('Access Granted')
 else:
